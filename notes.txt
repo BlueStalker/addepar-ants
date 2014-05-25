@@ -1,0 +1,4 @@
+if explore, go to the next square with unknown adjacent squares.
+if no adjacent squares with unknown adjacent squares, pick randomly.
+
+if going somewhere, a-star to it, if hit a block re-a-star if going to food or home, explore here if just exploring.
